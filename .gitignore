@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/venv
+.env
+/Users/mehdimirawa/Desktop/file/git/text-to-speak-bot/app.session
+/Users/mehdimirawa/Desktop/file/git/text-to-speak-bot/app.session-journal
+app.session
+app.session-journal
